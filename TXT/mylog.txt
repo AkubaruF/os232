@@ -18,3 +18,7 @@ ZCZC W02 10 L01 SCELE related
 ZCZC W02 200 L02 CLASSROOM meetings related
 ZCZC W02 10 L03 QUIZ
 ZCZC W02 90 L04 Weekly Assignments
+ZCZC W03 20 L00 General, etc.
+ZCZC W03 200 L01 CLASSROOM meetings related
+ZCZC W03 10 L02 QUIZ
+ZCZC W03 90 L03 Weekly Assignments
