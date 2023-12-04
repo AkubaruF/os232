@@ -45,3 +45,7 @@ ZCZC W09 20 L00 General, etc.
 ZCZC W09 200 L01 CLASSROOM meetings related
 ZCZC W09 15 L02 QUIZ
 ZCZC W09 60 L03 Weekly Assignments
+ZCZC W10 20 L00 General, etc.
+ZCZC W10 100 L01 CLASSROOM meetings related
+ZCZC W10 15 L02 QUIZ
+ZCZC W10 60 L03 Weekly Assignments
